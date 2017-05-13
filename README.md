@@ -5,6 +5,7 @@ express+mongodb搭建多人博客
 目前还存在登录不了的问题
 
 $cnpm install
+
 打开mongodb 数据库
 
 进入入口文件：
